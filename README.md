@@ -1,3 +1,10 @@
 # FM-RADIO-JAMMER
-The EMP Jammer is an innovative jamming device which jams the devices nearby by inducing an alternating voltage in it .
-![alt text](https://github.com/thatssweety/FM-RADIO-JAMMER/blob/4ccfae71c331dc89c0faf46c2dd7d87dcb03da49/Project%20Pic%20(2)%20(1)%20(1).jpg)
+## The EMP Jammer
+is an innovative jamming device which jams the devices nearby by inducing an alternating voltage in it .
+
+
+- A radio jammer is any device that deliberately blocks, jams or interferes with authorized wireless communications.
+
+- Hardware used : Trimmer Capacitor,Resistors,NE55 Timer, Ceramic Capacitors,Electrolytic Capacitors, Copper Coils, BF494 Transistor
+- Part of Vth Semester (Mechanical and Measurement Control System)
+![alt text](https://github.com/thatssweety/FM-RADIO-JAMMER/blob/99329487acb2cf98d321e0424feada89812796a9/Circuit%20diagram-1.jpg)
